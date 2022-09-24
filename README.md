@@ -6,7 +6,7 @@
 - generate qr code for any url
 
 
-[**Live Link** 🚀](https://github.com/prasoonmohan/QR-Code-Generator)
+[**Live Link** 🚀](https://qr-code-omega-liart.vercel.app/)
 
 
 ## Preview
