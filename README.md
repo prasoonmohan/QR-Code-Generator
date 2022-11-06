@@ -9,7 +9,7 @@
 [**Live Link** 🚀](https://qr-code-omega-liart.vercel.app/)
 
 
-## Preview
+## Preview ...
 
 ![Preview](./assets/images/preview.png)
 
